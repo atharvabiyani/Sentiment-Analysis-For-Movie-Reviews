@@ -10,7 +10,7 @@ This research project explores movie sentiment analysis using three distinct mod
 The project addresses the challenge of accurately classifying sentiment in movie reviews, aiming to discern the strengths and weaknesses of XG Boost, Light GBM, and Bert models in this context.
 
 ## Dataset
-Utilizing the IMDB Dataset, the project leverages a comprehensive collection of movie reviews for training and testing the sentiment analysis models. The dataset undergoes preprocessing, lemmatization, and vectorizing to enhance model performance.
+Utilizing the IMDB Dataset, the project leverages a comprehensive collection of movie reviews for training and testing the sentiment analysis models. The dataset undergoes preprocessing, lemmatization, and vectorizing to enhance model performance. The dataset can be found here: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews 
 
 ## Model
 The study employs three models: XG Boost, Light BGM, and Bert, each renowned for its unique capabilities. By comparing their outcomes, the project seeks to identify the model that excels in discerning sentiments from movie reviews.
