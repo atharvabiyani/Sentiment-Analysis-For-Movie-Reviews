@@ -4,7 +4,7 @@
 ![](./poster.jpg)
 
 ## Introduction
-This research project explores movie sentiment analysis using three distinct models: XG Boost, Light GBM, and Bert. The objective is to evaluate their performance in terms of accuracy, F1 Score, and the area under the ROC curve, shedding light on the most effective approach for sentiment classification.
+This research project explores movie sentiment analysis using three distinct models: XGBoost, LightGBM, and BERT. The objective is to evaluate their performance in terms of accuracy, F1 Score, and the area under the ROC curve, shedding light on the most effective approach for sentiment classification.
 
 ## Problem Description
 The project addresses the challenge of accurately classifying sentiment in movie reviews, aiming to discern the strengths and weaknesses of XG Boost, Light GBM, and Bert models in this context.
